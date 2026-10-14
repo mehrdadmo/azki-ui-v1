@@ -1,0 +1,3 @@
+- [ ] Replace ASCO branding and company-name case intake/search.
+- [ ] Add five-section Persian insurance reports, review controls, and copyable coverage statements.
+- [ ] Implement and verify Excel export and end-to-end case flow.
